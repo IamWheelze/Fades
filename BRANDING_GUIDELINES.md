@@ -118,7 +118,7 @@ Excellence, integrity, and results in every partnership. We deliver comprehensiv
    - "Trusted across African and international markets"
 
 2. **Multi-Sector Capabilities**
-   - "Comprehensive solutions across eight business sectors"
+   - "Comprehensive solutions across nine business sectors"
    - "One-stop partner for diverse business needs"
    - "Full-service marketing and supply company"
 

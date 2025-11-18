@@ -12,6 +12,7 @@ Professional corporate website for Fades Marketing Company, a multi-sector busin
 - Poultry & Animal Husbandry
 - Solar Energy Solutions
 - Real Estate Services
+- Fades Pharmacy (Pharmaceutical Products & Services)
 - Mineral & Commodity Trading
 - Import & Export Services
 - Marketing & Business Consultancy
