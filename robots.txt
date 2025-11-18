@@ -1,0 +1,10 @@
+# robots.txt for Fades Marketing Company
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.fadesmarketing.com/sitemap.xml
+
+# Disallow admin areas (if any in future)
+# Disallow: /admin/
